@@ -1,0 +1,5 @@
+/* Shared catalog behaviors keep their original hooks; reference-adapter.css owns layout. */
+.collection-hero{--hero-image:url('assets/hero-moon.jpg')}
+body[data-page=moon]{--ac:#cfd5e0;--bd:#6b7280;--accent:#cfd5e0}
+body[data-page=mars]{--ac:#ffb27a;--bd:#a4492a;--accent:#ffb27a}
+body[data-page=mars] .collection-hero{--hero-image:url('assets/hero-mars.jpg')}

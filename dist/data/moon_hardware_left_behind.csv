@@ -1,0 +1,28 @@
+﻿Hardware_or_Object,Mission_or_Program,Category,Purpose_or_Description,Disposition_or_Status,Reference_Basis
+Lunar Module descent stage,"Apollo 11, 12, 14, 15, 16, 17",Spacecraft / landing hardware,Lower stage of the Lunar Module used for landing; remained at the landing site,Left on lunar surface,NASA NSSDC Moon page; Apollo landing-site records
+Lunar Roving Vehicle (LRV),"Apollo 15, 16, 17",Transportation,Electric rover used by astronauts to travel across the lunar surface,Left on lunar surface,NASA Apollo mission records
+Modular Equipment Transporter (MET),Apollo 14,Transportation,Two-wheeled handcart used to carry tools and samples,Left on lunar surface,NASA Apollo 14 mission records
+Lunokhod 1,Luna 17,Robotic rover,Soviet remotely operated lunar rover,Left on lunar surface,NASA NSSDC lunar spacecraft records
+Lunokhod 2,Luna 21,Robotic rover,Soviet remotely operated lunar rover,Left on lunar surface,NASA NSSDC lunar spacecraft records
+Surveyor landers,Surveyor missions,Robotic lander,Uncrewed spacecraft that landed on the Moon and carried instruments,Lander hardware remains on lunar surface,NASA NSSDC lunar spacecraft records
+Luna landers,Luna missions,Robotic lander,Soviet uncrewed lunar landing spacecraft,Landing hardware remains at lunar sites,NASA NSSDC lunar spacecraft records
+Lunar Module ascent stages,Apollo missions,Spacecraft / impactor,"Upper stages that were jettisoned and, in several missions, deliberately impacted the Moon",Some were deliberately crashed; not all should be treated as intact hardware,NASA Apollo mission records
+S-IVB stages,Apollo missions,Rocket stage / impactor,Spent Saturn V upper stages associated with deliberate lunar impacts,Deliberately impacted the Moon on selected missions,NASA Apollo mission records
+Passive Seismic Experiment (PSE),"Apollo 11, 12, 14, 15, 16",Scientific instrument,Detected moonquakes and impacts to study lunar seismic activity,Deployed instruments; Apollo network operations ended in 1977,NASA ALSEP records
+Active Seismic Experiment,"Apollo 14, 16",Scientific instrument,Used artificial seismic sources to investigate the Moon's subsurface,Deployed during missions,NASA ALSEP records
+Lunar Surface Magnetometer (LSM),"Apollo 12, 15",Scientific instrument,Measured magnetic fields at the lunar surface,Deployed during missions,NASA ALSEP records
+Solar Wind Spectrometer (SWS),Apollo 12,Scientific instrument,Measured properties of the solar wind near the lunar surface,Deployed during mission,NASA ALSEP records
+Suprathermal Ion Detector Experiment (SIDE),"Apollo 12, 14, 15",Scientific instrument,Studied low-energy ions near the lunar surface,Deployed during missions,NASA ALSEP records
+Cold Cathode Gauge Experiment (CCGE),Apollo 14,Scientific instrument,Measured the density of the lunar atmosphere/exosphere,Deployed during mission,NASA ALSEP records
+Heat Flow Experiment (HFE),"Apollo 15, 17",Scientific instrument,Measured heat flow through lunar soil,Deployed during missions,NASA ALSEP records
+Charged Particle Spectrometer,Apollo 14,Scientific instrument,Measured charged particles in the lunar environment,Deployed during mission,NASA Apollo experiment records
+Laser Ranging Retroreflector (LRRR),"Apollo 11, 14, 15",Scientific instrument,Reflects laser pulses sent from Earth to measure the Earth–Moon distance,Passive reflector remains usable,NASA lunar laser ranging records
+Lunar Dust Detector,Apollo  dust detector experiments,Scientific instrument,Detected dust-related effects at the lunar surface,Experiment hardware left at deployment site,NASA Apollo experiment records
+Far Ultraviolet Camera/Spectrograph,Apollo 16,Scientific instrument,Observed astronomical objects and Earth's geocorona in ultraviolet light,Instrument was left on the Moon,NASA Apollo 16 mission records
+American flag,"Apollo 11, 12, 14, 15, 16, 17",Mission artifact,Flag planted by astronauts at each Apollo landing site,Left on lunar surface; condition may have changed due to exposure,NASA Apollo mission records
+Commemorative plaque,Apollo missions,Mission artifact,Plaque attached to or associated with the Lunar Module,Left on lunar surface,NASA Apollo mission records
+Cameras and camera equipment,Apollo missions,Photography equipment,Used to document surface activities and collect images,Some equipment was left behind; film and selected items returned to Earth,NASA Apollo mission records
+Geological tools,Apollo missions,Sampling equipment,"Scoops, tongs, hammers and core tubes used to collect lunar samples",Some tools and equipment left on lunar surface,NASA Apollo mission records
+Seismic mortar / explosive package equipment,"Apollo 14, 16",Scientific experiment equipment,Associated with active seismic experiments to generate seismic signals,Experiment components deployed on lunar surface,NASA ALSEP records
+Far-ultraviolet telescope,Apollo 16,Scientific instrument,Gold-plated telescope used for ultraviolet astronomical observations,Left on lunar surface,NASA Apollo 16 mission records
+Personal and commemorative objects,Apollo missions,Mission artifact,Various small objects and mementos left by astronauts,Specific objects vary by mission; not all are scientific hardware,NASA Apollo mission records

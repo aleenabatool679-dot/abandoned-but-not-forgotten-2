@@ -1,0 +1,12 @@
+/* Complete archive, using the existing reference-site design system. */
+body[data-page=explore]{--ac:#9ee7ff;--bd:#4b3fa0;--accent:#9ee7ff}
+.explore-intro{max-width:none;text-align:center;padding:85px 18px 65px;background:radial-gradient(ellipse at 50% 0,#1d4f8f55,transparent 65%),#02030a}
+.explore-intro h1{font-size:clamp(32px,6vw,66px);font-weight:400;letter-spacing:.06em;line-height:1.25;margin:20px auto}
+.explore-intro>p:not(.eyebrow){max-width:730px;margin:20px auto;color:#b9c4da;font-size:21px;line-height:1.7}
+.explore-totals{display:flex;justify-content:center;flex-wrap:wrap;gap:15px;margin-top:28px}
+.explore-totals span{border:1px solid #ffffff30;border-radius:99px;padding:8px 17px;color:#cfd8ea;font:500 11px/1.6 Inter,sans-serif;letter-spacing:.1em}
+.explore-collection{border-top:1px solid #ffffff20}
+.explore-collection .search-label{flex-basis:100%;max-width:none}
+.explore-collection .select-label{flex:1;min-width:150px}
+.explore-collection .select-label select{max-width:none}
+@media(max-width:720px){.explore-intro{padding:60px 18px 45px}.explore-intro>p:not(.eyebrow){font-size:19px}.explore-collection .select-label{flex:1 1 calc(50% - 12px);min-width:0}.explore-totals span{font-size:10px}}
