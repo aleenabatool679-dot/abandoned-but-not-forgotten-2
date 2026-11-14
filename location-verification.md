@@ -15,7 +15,7 @@ The two location panels now cover all 27 Moon and 50 Mars entries supplied for t
 - NASA GISS Mars24 lander coordinates: https://www.giss.nasa.gov/tools/mars24/help/landers.html
 - NASA Ingenuity final airfield: https://www.nasa.gov/solar-system/nasas-ingenuity-mars-helicopter-team-says-goodbye-for-now/
 
-The complete source registry, including instrument/debris evidence and Apollo plaque records, is in `dist/data/locations.json`. Every evidence URL is hosted by NASA. A search-indexed NASA educational PDF returned 404 and was replaced with accessible mission-specific NASA plaque records.
+The complete source registry, including instrument/debris evidence and Apollo plaque records, is in `data/locations.json`. Every evidence URL is hosted by NASA. A search-indexed NASA educational PDF returned 404 and was replaced with accessible mission-specific NASA plaque records.
 
 ## Decisions
 

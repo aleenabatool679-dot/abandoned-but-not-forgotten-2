@@ -6,15 +6,15 @@ A dependency-free educational website built from the supplied 27-entry Moon cata
 
 ## Open the website
 
-Open `dist/index.html` directly in a modern browser. All data, hardware photos and backgrounds are included locally. An internet connection loads the optional Google Fonts and opens NASA source links; system font fallbacks work offline.
+Open `index.html` directly in a modern browser. All data, hardware photos and backgrounds are included locally. An internet connection loads the optional Google Fonts and opens NASA source links; system font fallbacks work offline.
 
-Alternatively, serve `dist` with any static web server. For example:
+Alternatively, serve with any static web server. For example:
 
 ```sh
-python3 -m http.server 3000 --directory dist
+python3 -m http.server 3000
 ```
 
-Visit http://localhost:3000. Upload the contents of `dist` to GitHub Pages or another static host to publish independently.
+Visit http://localhost:3000.
 
 ## Pages and editing
 
